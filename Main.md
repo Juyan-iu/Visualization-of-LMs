@@ -1,0 +1,1 @@
+This repository is for the COLM 2026 submission titled “Visualizing the Internals of LMs: A Survey and Mapping of the Interpretability Visual Space.” The HTML files will be hosted on a web server after acceptance.
