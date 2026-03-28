@@ -23,3 +23,6 @@ Once the semantic phrases are extracted, the following steps are performed:
 * **Clustering:** Grouping similar "What" and "Why" concepts using clustering algorithms.
 
 * **Label Assignment:** Assigning representative labels to each cluster to categorize the visualization patterns across the dataset.
+
+# Grading Sample
+GPT-4o-extracted visualization subjects and purposes for each figure were manually annotated by human evaluators for 100 sampled figures.
