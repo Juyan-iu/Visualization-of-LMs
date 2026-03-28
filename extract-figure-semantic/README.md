@@ -1,5 +1,5 @@
-# Figure Extraction from PDF
-This module handles the initial data extraction from papers.
+# Figure Caption Extraction from PDF
+This module handles the Figure Caption extraction from papers.
 
 * **Text Extraction:** Uses `pdftotext` to convert PDF content into raw text.
 
