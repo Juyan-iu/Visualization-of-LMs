@@ -15,6 +15,9 @@ We utilize the GPT-4o API to perform semantic analysis on figure captions. The m
 
 * **Why:** The underlying purpose or intent of the visualization (e.g., comparison, distribution, correlation).
 
+* GPT-4o-extracted visualization subjects and purposes for each figure were manually annotated by human evaluators for 100 sampled figures ([grading_sample.xlsx](./grading_sample.xlsx)).
+
+
 ## 2. Clustering and Labeling
 Once the semantic phrases are extracted, the following steps are performed:
 
@@ -24,5 +27,3 @@ Once the semantic phrases are extracted, the following steps are performed:
 
 * **Label Assignment:** Assigning representative labels to each cluster to categorize the visualization patterns across the dataset.
 
-# Grading Sample
-GPT-4o-extracted visualization subjects and purposes for each figure were manually annotated by human evaluators for 100 sampled figures.
